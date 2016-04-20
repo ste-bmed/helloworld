@@ -1,0 +1,13 @@
+﻿<xapCache source="C:\progetti\git\proj2\C#\sdkWalletMembershipDealsWP8CS\bin\x86\release2\sdkWalletMembershipDealsWP8CS.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="20/04/2016 12:26:16">
+  <file source="C:\progetti\git\proj2\C#\sdkWalletMembershipDealsWP8CS\obj\x86\release2\sdkWalletMembershipDealsWP8CS.dll" archivePath="sdkWalletMembershipDealsWP8CS.dll" lastWriteTime="20/04/2016 12:26:15" />
+  <file source="C:\progetti\git\proj2\C#\sdkWalletMembershipDealsWP8CS\Assets\barcode.bmp" archivePath="Assets\barcode.bmp" lastWriteTime="06/06/2014 03:14:04" />
+  <file source="C:\progetti\git\proj2\C#\sdkWalletMembershipDealsWP8CS\Assets\IconicTileMediumLarge.png" archivePath="Assets\IconicTileMediumLarge.png" lastWriteTime="06/06/2014 03:14:04" />
+  <file source="C:\progetti\git\proj2\C#\sdkWalletMembershipDealsWP8CS\Assets\IconicTileSmall.png" archivePath="Assets\IconicTileSmall.png" lastWriteTime="06/06/2014 03:14:04" />
+  <file source="C:\progetti\git\proj2\C#\sdkWalletMembershipDealsWP8CS\Background.png" archivePath="Background.png" lastWriteTime="06/06/2014 03:14:04" />
+  <file source="C:\progetti\git\proj2\C#\sdkWalletMembershipDealsWP8CS\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="06/06/2014 03:14:04" />
+  <file source="C:\progetti\git\proj2\C#\sdkWalletMembershipDealsWP8CS\bin\x86\release2\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="20/04/2016 12:26:16" />
+  <file source="C:\progetti\git\proj2\C#\sdkWalletMembershipDealsWP8CS\bin\x86\release2\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="06/06/2014 03:14:04" />
+  <file source="C:\progetti\git\proj2\C#\sdkWalletMembershipDealsWP8CS\MockWebService\Bin\x86\Release\MockWebService.dll" archivePath="MockWebService.dll" lastWriteTime="20/04/2016 12:26:15" />
+  <file source="C:\progetti\git\proj2\C#\sdkWalletMembershipDealsWP8CS\SampleWalletAgent\Bin\x86\Release\SampleMembershipDealsWalletAgent.dll" archivePath="SampleMembershipDealsWalletAgent.dll" lastWriteTime="20/04/2016 12:26:15" />
+  <file source="C:\progetti\git\proj2\C#\sdkWalletMembershipDealsWP8CS\bin\x86\release2\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="20/04/2016 12:26:16" />
+</xapCache>

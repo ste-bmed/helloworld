@@ -1,0 +1,4 @@
+C:\progetti\git\proj2\C#\sdkWalletMembershipDealsWP8CS\MockWebService\Bin\x86\Release\MockWebService.dll
+C:\progetti\git\proj2\C#\sdkWalletMembershipDealsWP8CS\MockWebService\Bin\x86\Release\MockWebService.pdb
+C:\progetti\git\proj2\C#\sdkWalletMembershipDealsWP8CS\MockWebService\obj\x86\Release\MockWebService.dll
+C:\progetti\git\proj2\C#\sdkWalletMembershipDealsWP8CS\MockWebService\obj\x86\Release\MockWebService.pdb

@@ -1,0 +1,7 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="sdkWalletMembershipDealsWP8CS" EntryPointType="sdkWalletMembershipDealsWP8CS.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="sdkWalletMembershipDealsWP8CS" Source="sdkWalletMembershipDealsWP8CS.dll" />
+    <AssemblyPart x:Name="MockWebService" Source="MockWebService.dll" />
+    <AssemblyPart x:Name="SampleMembershipDealsWalletAgent" Source="SampleMembershipDealsWalletAgent.dll" />
+  </Deployment.Parts>
+</Deployment>
