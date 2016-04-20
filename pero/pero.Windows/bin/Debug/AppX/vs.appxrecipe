@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SWEETJOB</Machine>
+    <WindowsUser>WorkinMate</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>33740c1d-8193-4aa1-91a9-a0167ef31e7b</PackageIdentityName>
+    <IntermediateOutputPath>C:\progetti\winmob\first\pero\pero\pero.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>0D88461B5B908849874619C6D3A5DF8D9F8E22B314C6128472F9807E438B0743</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>33740c1d-8193-4aa1-91a9-a0167ef31e7b_1.0.0.0_neutral__zvhswepgy2cmt</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>33740c1d-8193-4aa1-91a9-a0167ef31e7b_zvhswepgy2cmt!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>33740c1d-8193-4aa1-91a9-a0167ef31e7b</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=WorkinMate</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\progetti\winmob\first\pero\pero\pero.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-20T11:01:09.356</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\progetti\winmob\first\pero\pero\pero.Windows\bin\Debug\pero.Windows.exe">
+      <PackagePath>pero.Windows.exe</PackagePath>
+      <Modified>2016-04-20T11:01:08.382</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\progetti\winmob\first\pero\pero\pero.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T21:06:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\progetti\winmob\first\pero\pero\pero.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T21:06:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\progetti\winmob\first\pero\pero\pero.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T21:06:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\progetti\winmob\first\pero\pero\pero.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T21:06:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\progetti\winmob\first\pero\pero\pero.Windows\bin\Debug\pero.Windows.xr.xml">
+      <PackagePath>pero.Windows.xr.xml</PackagePath>
+      <Modified>2016-04-20T11:01:07.703</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\progetti\winmob\first\pero\pero\pero.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-04-20T11:01:08.118</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\progetti\winmob\first\pero\pero\pero.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-04-20T11:01:08.121</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\progetti\winmob\first\pero\pero\pero.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-04-20T11:01:08.709</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

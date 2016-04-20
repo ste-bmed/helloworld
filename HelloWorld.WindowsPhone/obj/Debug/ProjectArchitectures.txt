@@ -1,1 +1,0 @@
-C:\progetti\winmob\first\HelloWorld\HelloWorld\HelloWorld.WindowsPhone\HelloWorld.WindowsPhone.csproj;neutral
