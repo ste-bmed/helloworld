@@ -1,0 +1,1 @@
+C:\progetti\winmob\first\HelloWorld\HelloWorld\HelloWorld.Windows\HelloWorld.Windows.csproj;neutral

@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SWEETJOB</Machine>
+    <WindowsUser>WorkinMate</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>c206d393-a232-4556-b674-32c6534c3502</PackageIdentityName>
+    <IntermediateOutputPath>C:\progetti\winmob\first\HelloWorld\HelloWorld\HelloWorld.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>78304BB9F6ACF77BF8DF9F92820C1266E658718C315DEEC9E882D2610E194199</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>c206d393-a232-4556-b674-32c6534c3502_1.0.0.0_neutral__zvhswepgy2cmt</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>c206d393-a232-4556-b674-32c6534c3502_zvhswepgy2cmt!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>c206d393-a232-4556-b674-32c6534c3502</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=WorkinMate</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\progetti\winmob\first\HelloWorld\HelloWorld\HelloWorld.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-18T10:30:34.078</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\progetti\winmob\first\HelloWorld\HelloWorld\HelloWorld.Windows\bin\Debug\HelloWorld.Windows.exe">
+      <PackagePath>HelloWorld.Windows.exe</PackagePath>
+      <Modified>2016-04-18T10:30:32.572</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\progetti\winmob\first\HelloWorld\HelloWorld\HelloWorld.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T21:06:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\progetti\winmob\first\HelloWorld\HelloWorld\HelloWorld.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T21:06:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\progetti\winmob\first\HelloWorld\HelloWorld\HelloWorld.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T21:06:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\progetti\winmob\first\HelloWorld\HelloWorld\HelloWorld.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T21:06:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\progetti\winmob\first\HelloWorld\HelloWorld\HelloWorld.Windows\bin\Debug\HelloWorld.Windows.xr.xml">
+      <PackagePath>HelloWorld.Windows.xr.xml</PackagePath>
+      <Modified>2016-04-18T10:30:30.960</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\progetti\winmob\first\HelloWorld\HelloWorld\HelloWorld.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-04-18T10:30:31.921</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\progetti\winmob\first\HelloWorld\HelloWorld\HelloWorld.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-04-18T10:30:31.924</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\progetti\winmob\first\HelloWorld\HelloWorld\HelloWorld.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-04-18T10:30:33.271</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
